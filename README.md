@@ -29,6 +29,7 @@ plain
 | 简单 | Python Flask/Django + SQLite/PostgreSQL + HTML/Bootstrap | 你们会 Python |
 | 现代 | React 前端 + Node/Express 后端 + PostgreSQL | 想要更漂亮的界面 |
 | 最快 | Firebase（Auth、Firestore、Storage）+ React | 想少写后端 |
+
 团队只有两个人，我真心推荐 Flask 或 Django——用户认证、文件上传、审核逻辑基本都是自带的或一个插件就搞定。
 ## 4. 数据库（大约 5 张表）
 - Users（id、姓名、角色：manager/employee）
