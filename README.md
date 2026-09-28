@@ -19,8 +19,6 @@ plain
 - 查看管理员的错误报告，修改后重新提交
 - 查看个人进度条
 3. 推荐技术栈（选一个）
-## 技术方案选型
-
 | 方案 | 技术栈 | 适合情况 |
 | --- | --- | --- |
 | 简单 | Python Flask/Django + SQLite/PostgreSQL + HTML/Bootstrap | 你们会 Python |
